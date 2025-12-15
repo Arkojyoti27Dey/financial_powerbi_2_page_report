@@ -25,5 +25,9 @@ This repository contains a concise and interactive **Power BI Financial Report**
 Created by **Arko** – Complete analysis, modeling, and report design.
 
 ---
+### 6. Screenshots / Demo
+###### PAGE1
+![Dashboard Preview](https://github.com/Arkojyoti27Dey/financial_powerbi_2_page_report/blob/main/Screenshot%202025-12-15%20150001.png)
 
-If you'd like this version to include emojis, badges, or a preview image section, I can refine it further.
+###### PAGE2
+![Dashboard Preview](https://github.com/Arkojyoti27Dey/financial_powerbi_2_page_report/blob/main/Screenshot%202025-12-15%20150022.png)
